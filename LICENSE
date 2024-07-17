@@ -1,24 +1,38 @@
-This is free and unencumbered software released into the public domain.
+Examripper Software License Agreement
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+1. Grant of License
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, and merge copies of the Software, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+2. Restrictions
 
-For more information, please refer to <https://unlicense.org>
+The Software is licensed to Examripper and its authorized users only under the following conditions:
+
+	1.	No Redistribution: You may not distribute, publish, or share copies of the Software, in whole or in part, to any third party.
+	2.	No Forking: You may not fork the Software to create a new project outside of Examripper.
+	3.	No Commercial Use: You may not use the Software for any commercial purpose outside of Examripper. This includes selling, licensing, or commercializing the Software in any form.
+
+3. Modifications
+
+	1.	Any modifications made to the Software must be shared with Examripper.
+	2.	Modifications must be integrated into the main codebase under the guidance and approval of Examripper’s project maintainers.
+
+4. Intellectual Property
+
+All intellectual property rights in and to the Software are owned by Examripper. This License does not grant you any rights to use Examripper’s trademarks, logos, or other proprietary information.
+
+5. Termination
+
+This License is effective until terminated. Your rights under this License will terminate automatically without notice from Examripper if you fail to comply with any term(s) of this License. Upon termination, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+6. Disclaimer of Warranty
+
+The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+7. Limitation of Liability
+
+In no event will Examripper be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of the use of or inability to use the Software.
+
+8. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles.
