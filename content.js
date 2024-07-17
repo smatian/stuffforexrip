@@ -1,1 +1,272 @@
-let intervalId=null;let loopCount=0x9961d^0x9961d;let requestCount=0x5334e^0x5334e;let imageSearches=0x7dbc6^0x7dbc6;let submitClick=0x6f482^0x6f482;let intervalBetween=0x1a2c5^0x1a97d;function getAuthToken(){return new Promise((_0x40bbb0,_0x4a97c3)=>{chrome["\u0073\u0074\u006f\u0072\u0061\u0067\u0065"]["\u006c\u006f\u0063\u0061\u006c"]["\u0067\u0065\u0074"]("\u0061\u0075\u0074\u0068\u0054\u006f\u006b\u0065\u006e",function(_0xc6bbd8){if(chrome["\u0072\u0075\u006e\u0074\u0069\u006d\u0065"]["\u006c\u0061\u0073\u0074\u0045\u0072\u0072\u006f\u0072"]){return _0x4a97c3(chrome["\u0072\u0075\u006e\u0074\u0069\u006d\u0065"]["\u006c\u0061\u0073\u0074\u0045\u0072\u0072\u006f\u0072"]);}_0x40bbb0(_0xc6bbd8["\u0061\u0075\u0074\u0068\u0054\u006f\u006b\u0065\u006e"]);});});}let globalAuthToken=null;function updateAuthToken(){getAuthToken()["\u0074\u0068\u0065\u006e"](_0x4c0d1a=>{globalAuthToken=_0x4c0d1a;console['log']('Auth\x20token\x20updated\x20globally:',globalAuthToken);})['catch'](_0x5d75dd=>{console['error'](":nekot htua labolg gnitadpu rorrE".split("").reverse().join(""),_0x5d75dd);});}updateAuthToken();let apiUrl="ksa/ipa/moc.ppaukoreh.080693782882-reppirmaxe//:sptth".split("").reverse().join("");function findMatchingLabel(_0x34bad6,_0xd4993b){const _0x3440de=_0x34bad6["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("\u006c\u0061\u0062\u0065\u006c");const _0x2fcee2=Array['from'](_0x3440de)['find'](_0x2f36dd=>{const _0x214469=_0x2f36dd["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]("\u0073\u0070\u0061\u006e");return _0x214469&&_0x214469["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]["\u0074\u006f\u004c\u006f\u0077\u0065\u0072\u0043\u0061\u0073\u0065"]()===_0xd4993b["\u0074\u006f\u004c\u006f\u0077\u0065\u0072\u0043\u0061\u0073\u0065"]();});if(_0x2fcee2){console['log'](":lebaL dehctaM".split("").reverse().join(""),_0x2fcee2["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]);}else{console['log'](".dnuof lebal gnihctam oN".split("").reverse().join(""));}}function processYellowBorder(_0x46e469,_0x24f048){console["\u006c\u006f\u0067"]("redroB wolleY gnissecorP".split("").reverse().join(""));const _0x4ba1b2=_0x46e469['querySelectorAll']("rettel-eciohc-ais. ,detresni-rats-gn.".split("").reverse().join(""));_0x4ba1b2['forEach'](_0x550ada=>{if(_0x550ada['textContent']['includes'](_0x24f048)){console["\u006c\u006f\u0067"](":napS dehctaM".split("").reverse().join(""));console['log'](_0x550ada);const _0x1efbd3=_0x550ada['closest']("lebal".split("").reverse().join(""));if(_0x1efbd3){console["\u006c\u006f\u0067"](":viD tneraP etaidemmI".split("").reverse().join(""));console["\u006c\u006f\u0067"](_0x1efbd3);const _0x29736b=_0x1efbd3['querySelector']("]\"oidar\"=epyt[tupni".split("").reverse().join(""));console['log']('First\x20Radio\x20Button:',_0x29736b);if(_0x29736b){_0x29736b["\u0063\u006c\u0069\u0063\u006b"]();console['log']('Clicked\x20radio\x20button:\x20'+_0x29736b['name']);setTimeout(()=>{printAndClickSubmitButton(_0x46e469);},intervalBetween);}}}else{console['log'](".dnuof naps gnihctam oN".split("").reverse().join(""));}});}function sendFormData(_0x5b238b){const _0x55f5e6=_0x5b238b['querySelectorAll']("\u0069\u006d\u0067");if(_0x55f5e6['length']>(0xa2942^0xa2942)){apiUrl='https://examripper-288287396080.herokuapp.com/imageDetermine';html2canvas(_0x5b238b,{"\u0075\u0073\u0065\u0043\u004f\u0052\u0053":!![],"\u0061\u006c\u006c\u006f\u0077\u0054\u0061\u0069\u006e\u0074":![]})["\u0074\u0068\u0065\u006e"](_0x286647=>{const _0x2cee07=_0x286647["\u0074\u006f\u0044\u0061\u0074\u0061\u0055\u0052\u004c"]("\u0069\u006d\u0061\u0067\u0065\u002f\u0070\u006e\u0067");console['log'](_0x2cee07);const _0x432859={'authToken':globalAuthToken,'imgdata':_0x2cee07};fetch(apiUrl,{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0050\u004f\u0053\u0054",'headers':{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":'application/json'},"\u0062\u006f\u0064\u0079":JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x432859)})['then'](_0x12df6d=>_0x12df6d['json']())['then'](_0x560fb8=>{console["\u006c\u006f\u0067"](" eht rof tseuqer tneS".split("").reverse().join(""),requestCount++,'th\x20time');if(_0x560fb8['response']){processYellowBorder(_0x5b238b,_0x560fb8['response']);}})['catch'](_0x3933bc=>{console["\u0065\u0072\u0072\u006f\u0072"]("\u0045\u0072\u0072\u006f\u0072\u003a",_0x3933bc);});});}else{apiUrl="\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0065\u0078\u0061\u006d\u0072\u0069\u0070\u0070\u0065\u0072\u002d\u0032\u0038\u0038\u0032\u0038\u0037\u0033\u0039\u0036\u0030\u0038\u0030\u002e\u0068\u0065\u0072\u006f\u006b\u0075\u0061\u0070\u0070\u002e\u0063\u006f\u006d\u002f\u0061\u0070\u0069\u002f\u0061\u0073\u006b";const _0x423615=_0x5b238b["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]['trim']();const _0x513b53={"\u0074\u0065\u0078\u0074":_0x423615,"\u0061\u0075\u0074\u0068\u0054\u006f\u006b\u0065\u006e":globalAuthToken};fetch(apiUrl,{"\u006d\u0065\u0074\u0068\u006f\u0064":'POST',"\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":'application/json'},'body':JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x513b53)})["\u0074\u0068\u0065\u006e"](_0x427ee2=>_0x427ee2["\u006a\u0073\u006f\u006e"]())["\u0074\u0068\u0065\u006e"](_0x438745=>{console['log']('Sent\x20request\x20for\x20the\x20',requestCount++,"emit ht".split("").reverse().join(""));if(_0x438745['response']){findMatchingLabel(_0x5b238b,_0x438745['response']);processYellowBorder(_0x5b238b,_0x438745["\u0072\u0065\u0073\u0070\u006f\u006e\u0073\u0065"]);}})['catch'](_0x229d00=>{console["\u0065\u0072\u0072\u006f\u0072"](":rorrE".split("").reverse().join(""),_0x229d00);});}}function printAndClickSubmitButton(_0x4d940a){const _0x667e33=_0x4d940a['querySelectorAll']("\u0062\u0075\u0074\u0074\u006f\u006e");console['log']('Submitting\x20buttons\x20for\x20the',submitClick++,'th\x20time');_0x667e33["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x5b1a9a=>{if(_0x5b1a9a['querySelector']("naps".split("").reverse().join(""))&&_0x5b1a9a["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]("\u0073\u0070\u0061\u006e")['textContent']['toUpperCase']()['includes']("TIMBUS".split("").reverse().join(""))){_0x5b1a9a["\u0063\u006c\u0069\u0063\u006b"]();setTimeout(()=>{checkForNextButton(_0x4d940a);},0x69238^0x69530);}});}function checkForNextButton(_0xa7a7f7){const _0x2909a6=_0xa7a7f7["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("nottub".split("").reverse().join(""));let _0xdddb97=![];console["\u006c\u006f\u0067"]('Found\x20'+_0x2909a6['length']+'\x20button(s)\x20in\x20the\x20form.');console['log'](_0x2909a6);_0x2909a6['forEach'](_0x1cb975=>{console['log'](_0x1cb975);if(_0x1cb975['textContent']['toUpperCase']()['includes']('NEXT')){console['log'](":dnuof nottuB txeN".split("").reverse().join(""),_0x1cb975['textContent']);setTimeout(_0x1cb975["\u0063\u006c\u0069\u0063\u006b"](),intervalBetween);console['log']('Clicked\x20Next\x20Button:',_0x1cb975['textContent']);_0xdddb97=!![];}else if(_0x1cb975['textContent']["\u0074\u006f\u0055\u0070\u0070\u0065\u0072\u0043\u0061\u0073\u0065"]()['includes']('VIEW')){clearInterval(intervalId);}});if(!_0xdddb97){console["\u006c\u006f\u0067"]('No\x20Next\x20Button\x20found.');}}function printImagesInForm(_0x2758dc){const _0x177a6b=_0x2758dc['querySelectorAll']("gmi".split("").reverse().join(""));console['log'](":tnuoC hcraeS egamI".split("").reverse().join(""),imageSearches++);console['log'](" dnuoF".split("").reverse().join("")+_0x177a6b['length']+".mrof eht ni )s(egami ".split("").reverse().join(""));_0x177a6b['forEach']((_0x1638fd,_0x361f10)=>{console['log']('Image\x20'+(_0x361f10+(0xaa2b4^0xaa2b5))+':\x20SRC='+_0x1638fd['src']+',\x20ALT='+_0x1638fd['alt']);});}chrome['runtime']['onMessage']['addListener'](function(_0x12507a,_0x378633,_0x43d6a0){console["\u006c\u006f\u0067"]('Received\x20Message:',_0x12507a);if(_0x12507a['action']==="gnithgilhgiHtrats".split("").reverse().join("")){loopCount=0x50ae9^0x50ae9;imageSearches=0x5cdde^0x5cdde;requestCount=0x0;console['log']("gnitrats".split("").reverse().join(""));if(intervalId)clearInterval(intervalId);intervalId=setInterval(()=>{intervalBetween=_0x12507a['interval'];document['querySelectorAll']("mrof".split("").reverse().join(""))['forEach'](_0x309328=>{console['log']('loops\x20',loopCount);console['log']('intervalID\x20',intervalId);const _0x36548=Array['from'](_0x309328['querySelectorAll']('*'))['some'](_0xe4adf4=>{return _0xe4adf4['textContent']['includes']('Question')&&_0xe4adf4['textContent']['includes']("fo".split("").reverse().join(""));});if(_0x36548){const _0x19d819=_0x309328['dataset']['color']==="der dilos xp2".split("").reverse().join("")?'blue':"der".split("").reverse().join("");_0x309328['dataset']["\u0063\u006f\u006c\u006f\u0072"]=" dilos xp2".split("").reverse().join("")+_0x19d819;printImagesInForm(_0x309328);if(_0x19d819==="\u0062\u006c\u0075\u0065"){sendFormData(_0x309328);}}});loopCount++;},intervalBetween);}else if(_0x12507a['action']==='stopHighlighting'){clearInterval(intervalId);document['querySelectorAll']("mrof".split("").reverse().join(""))['forEach'](_0x5412c2=>{_0x5412c2['style']['border']="".split("").reverse().join("");});}});
+let intervalId = null;
+let loopCount = 0;
+
+let requestCount = 0;
+let imageSearches = 0;
+let submitClick = 0;
+
+
+let intervalBetween = 3000;
+
+
+function getAuthToken() {
+  return new Promise((resolve, reject) => {
+      chrome.storage.local.get('authToken', function(result) {
+          if (chrome.runtime.lastError) {
+              return reject(chrome.runtime.lastError);
+          }
+          resolve(result.authToken);
+      });
+  });
+}
+// hello sina from july 5th. if you are reading this, please continue fixing the function abov
+// to get thee auth token asynchronly because anything else will just return a promise
+// i hope you get that mclaren or gt3rs soon
+
+// sina from july 6th speaking
+// will work on it now
+// thanks.
+
+let globalAuthToken = null;
+
+function updateAuthToken() {
+    getAuthToken().then(token => {
+        globalAuthToken = token;
+        console.log("Auth token updated globally:", globalAuthToken);
+    }).catch(error => {
+        console.error("Error updating global auth token:", error);
+    });
+}
+
+// Call updateAuthToken at app start or when needed
+updateAuthToken();
+
+
+
+
+
+
+
+let apiUrl = "https://examripper-288287396080.herokuapp.com/api/ask";
+
+function findMatchingLabel(form, matchText) {
+  const labels = form.querySelectorAll("label");
+  const matchedLabel = Array.from(labels).find((label) => {
+    const span = label.querySelector("span");
+    return span && span.textContent.toLowerCase() === matchText.toLowerCase();
+  });
+
+  if (matchedLabel) {
+    console.log("Matched Label:", matchedLabel.textContent);
+  } else {
+    console.log("No matching label found.");
+  }
+}
+
+function processYellowBorder(form, matchText) {
+  console.log("Processing Yellow Border");
+  const elements = form.querySelectorAll(".ng-star-inserted, .sia-choice-letter");
+elements.forEach((element) => {
+  console.log(matchText)
+  console.log(element)
+    if (element.innerText.includes(matchText)) {
+      console.log("Matched Span:");
+      console.log(element);
+      const parentDiv = element.closest("label");
+      console.log(parentDiv)
+      if (parentDiv) {
+        console.log("Immediate Parent Div:");
+        console.log(parentDiv);
+        const firstRadio = parentDiv.querySelector('input[type="radio"]');
+        console.log("First Radio Button:", firstRadio);
+        if (firstRadio) {
+          firstRadio.click();
+          console.log(`Clicked radio button: ${firstRadio.name}`);
+          setTimeout(() => {
+            printAndClickSubmitButton(form);
+          }, intervalBetween);
+        }
+      }
+    } else {
+      console.log("No matching span found.");
+    }
+  });
+}
+
+function sendFormData(form) {
+  const images = form.querySelectorAll("img");
+  const svgs = form.querySelectorAll("svg");
+  if (images.length > 0 || svgs.length > 0) {
+    apiUrl = "https://examripper-288287396080.herokuapp.com/imageDetermine";
+    html2canvas(form, {
+      useCORS: true,
+      allowTaint: false,
+    }).then((canvas) => {
+      const imgData = canvas.toDataURL("image/png");
+      console.log(imgData)
+      const data = {
+        authToken: globalAuthToken,
+        imgdata: imgData,
+      };
+      fetch(apiUrl, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(data),
+      })
+        .then((response) => response.json())
+        .then((data) => {
+          console.log("Sent request for the ", requestCount++, "th time");
+          if (data.response) {
+            processYellowBorder(form, data.response);
+          }
+        })
+        .catch((error) => {
+          console.error("Error:", error);
+        });
+    });
+  } else {
+    apiUrl = "https://examripper-288287396080.herokuapp.com/api/ask";
+    const textContent = form.textContent.trim();
+    const data = {
+      text: textContent,
+      authToken: globalAuthToken
+    };
+    fetch(apiUrl, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(data),
+    })
+      .then((response) => response.json())
+      .then((data) => {
+        console.log("Sent request for the ", requestCount++, "th time");
+        if (data.response) {
+          findMatchingLabel(form, data.response);
+          processYellowBorder(form, data.response);
+        }
+      })
+      .catch((error) => {
+        console.error("Error:", error);
+      });
+  }
+}
+
+function printAndClickSubmitButton(form) {
+  const buttons = form.querySelectorAll("button");
+  console.log("Submitting buttons for the", submitClick++, "th time")
+  buttons.forEach((button) => {
+    if (
+      button.querySelector("span") &&
+      button.querySelector("span").textContent.toUpperCase().includes("SUBMIT")
+    ) {
+      console.log(
+        `Found and clicked Submit Button: ${
+          button.querySelector("span").textContent
+        }`
+      );
+      button.click();
+      setTimeout(() => {
+        checkForNextButton(form);
+      }, 1800);
+    }
+  });
+}
+
+function checkForNextButton(form) {
+  // Use querySelectorAll to consider all buttons within the form
+  const buttons = form.querySelectorAll("button");
+  let nextButtonFound = false;
+  console.log(`Found ${buttons.length} button(s) in the form.`);
+  console.log(buttons)
+
+  buttons.forEach(button => {
+    console.log(button)
+    // Check if the button's text includes "NEXT"
+    if (button.textContent.toUpperCase().includes("NEXT")) {
+      console.log("Next Button found:", button.textContent);
+      setTimeout(button.click(), intervalBetween)
+      console.log("Clicked Next Button:", button.textContent);
+      nextButtonFound = true;
+    } else if (button.textContent.toUpperCase().includes("VIEW")) {
+      clearInterval(intervalId);
+    }
+  });
+
+  if (!nextButtonFound) {
+    console.log("No Next Button found.");
+  }
+}
+
+function printImagesInForm(form) {
+  const images = form.querySelectorAll("img");
+  console.log("Image Search Count:", imageSearches++);
+  console.log(`Found ${images.length} image(s) in the form.`);
+  images.forEach((img, index) => {
+    console.log(`Image ${index + 1}: SRC=${img.src}, ALT=${img.alt}`);
+  });
+}
+
+chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
+
+  console.log("Received Message:", request);
+  if (request.action === "startHighlighting") {
+    loopCount = 0;
+    imageSearches = 0;
+    requestCount = 0; 
+
+    
+    console.log("starting");
+    if (intervalId) clearInterval(intervalId);
+    intervalId = setInterval(() => {
+      
+      
+      intervalBetween = request.interval;
+      document.querySelectorAll("form").forEach((form) => {
+        console.log("loops ", loopCount);
+        console.log("intervalID ", intervalId)
+        const hasQuestionText = Array.from(form.querySelectorAll("*")).some(
+          (el) => {
+            return (
+              el.textContent.includes("Question") &&
+              el.textContent.includes("of")
+            );
+          }
+        );
+        if (hasQuestionText) {
+          // check if there is an input in the form with the placeholder as "Answer here" if there is refresh the page
+          const answerInput = form.querySelector('input[data-placeholder="Answer here"]');
+          if (answerInput) {
+            console.log("Answer input found. Refreshing page.");
+            location.reload();
+          }
+          // check if form.innerHTML.includes("drag-source") if its true refresh the page
+          if (form.innerHTML.includes("drag-source")) {
+            console.log("Drag source found. Refreshing page.");
+            location.reload();
+          }
+          
+
+          
+
+          const newColor =
+            form.dataset.color === "2px solid red" ? "blue" : "red";
+          form.dataset.color = `2px solid ${newColor}`;
+          printImagesInForm(form);
+
+          if (newColor === "blue") {
+            sendFormData(form);
+          }
+        }
+      });
+      loopCount++;
+    }, intervalBetween);
+  } else if (request.action === "stopHighlighting") {
+    clearInterval(intervalId);
+    document.querySelectorAll("form").forEach((form) => {
+      form.style.border = "";
+    });
+  }
+});
